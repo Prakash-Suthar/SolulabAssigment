@@ -20,6 +20,9 @@ This project is a lightweight, custom-built sentiment analysis system designed t
 - install requirements.txt
     - pip install -r requirements.txt
 
+model path and vectorizepath are - .joblib file 
+data_path - .csv file
+
 
 - run entire project 
 # now Run **uvicorn main:app --reload** 
